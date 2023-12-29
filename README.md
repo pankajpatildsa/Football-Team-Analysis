@@ -1,5 +1,5 @@
 
-<b>Football team analysis using interactive data visualizations in Tableau </b>
+<b>Football Team Analysis using interactive data visualizations in Tableau </b>
 
 <b>List of files : </b> <br>
 Football_Team_Analysis_Tableau.twb : This is a Tableau file which was used for the visual insights used in analysis. <br>
