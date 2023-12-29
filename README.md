@@ -13,7 +13,8 @@ overview of the process for a new manager goes through to buy new players at the
 1. Analysis of the previous team Performance <br>
 2. Analysis of the Different Players in the team <br>
 3. Analysis of the Transfer Market<br>
-4. Revenue allocation for the process<br>
+4. Revenue allocation for the process
+   
 In this project, I will focus on solving this decision problem for the managers of the football 
 team and provide a thorough analysis of the entire football team with the help of the various 
 IT tools in the market. Here, I will do analysis of the Real Madrid football club which is a 
